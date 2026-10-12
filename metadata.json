@@ -1,0 +1,6 @@
+{
+  "name": "VectorWise",
+  "description": "LLVM-powered CPU optimization workbench for C++ code analysis, diagnostics, LLVM IR, assembly, and benchmark execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
